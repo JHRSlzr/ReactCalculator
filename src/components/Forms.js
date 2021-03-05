@@ -71,8 +71,3 @@ const styles = StyleSheet.create({
         marginLeft:5
     }
 });
-
-    // setSuma= num1 + num2;
-    // setResta= num1 - num2;
-    // setMulti= num1 * num2;
-    // setDiv= num1 / num2;

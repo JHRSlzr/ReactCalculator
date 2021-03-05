@@ -29,15 +29,6 @@ export default function App(){
         <Form setNum1 = {setNum1} setNum2 = {setNum2} setSuma = {suma} setResta = {resta} setMulti = {multi} setDiv = {div}/>
         <Button style={styles.ButtonRes} title="RESULTADO" onPress={onSubmit}/>
       </SafeAreaView>
-      {/* <SafeAreaView style={styles.safeArea}>
-      <Text>
-            RESULTADOS: {"\n"}
-            SUMA: {suma} {"\n"}
-            RESTA: {resta} {"\n"}
-            MULTIPLICACIÓN: {multi} {"\n"}
-            DIVISIÓN: {div} {"\n"}
-            </Text>
-            </SafeAreaView> */}
     </>
 
   );
